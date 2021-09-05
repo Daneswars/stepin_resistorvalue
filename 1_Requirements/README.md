@@ -42,6 +42,27 @@ If two of these values are known, technicians can reconfigure Ohm's Law to calcu
 
 If you know voltage (E) and current (I) and want to know resistance (R), X-out the R in the pyramid and calculate the remaining equation (see the first, or far left, pyramid above).
 
-## **SWOT ANALYSIS** 
+## **SWOT ANALYSIS**
+![swot](https://user-images.githubusercontent.com/89680649/132124229-c72dc368-2e55-4ab5-aada-8e92f50d0954.png)
+
+## ***4W AND 1H***
+
+### WHO:
+GEORGE SIMON OHM (INVENTOR)
+
+Georg Simon Ohm (16 March 1789 – 6 July 1854) was a German physicist and mathematician. As a school teacher, Ohm began his research with the new electrochemical cell, invented by Italian scientist Alessandro Volta. Using equipment of his own creation, Ohm found that there is a direct proportionality between the potential difference (voltage) applied across a conductor and the resultant electric current. This relationship is known as Ohm's law.
+![image](https://github.com/259881/Ltts-uttam/blob/f1be74d701435df26eaeccc889ef36d1aa2f5081/1_Requirements/Georg%20Ohm.jpg)
+
+1.L.A. Geddes
+Hillenbrand Biomedical Engineering Center, Purdue University, West Lafayette, IN
+
+2.L.E. Geddes
+School of Nursing, Purdue University
+
+### WHERE
+IEEE Engineering in Medicine and Biology Magazine ( Volume: 17, Issue: 3, May-June 1998)
+
+### WHAT
+Ohm’s law states that the voltage across a conductor is directly proportional to the current flowing through it, provided all physical conditions and temperature remain constant.
 
 
