@@ -64,5 +64,22 @@ IEEE Engineering in Medicine and Biology Magazine ( Volume: 17, Issue: 3, May-Ju
 
 ### WHAT
 Ohm’s law states that the voltage across a conductor is directly proportional to the current flowing through it, provided all physical conditions and temperature remain constant.
+![image](https://user-images.githubusercontent.com/82046396/114551646-4e1a6900-9c81-11eb-87d5-1c7c2483461d.png)
 
+### WHEN
+May-June 1998
+
+In 1827 Georg Simon Ohm discovered some laws relating to the strength of a current in a wire. Ohm found that electricity acts like water in a pipe. Ohm discovered that the current in a circuit is directly proportional to the electric pressure and inversely to the resistance of the conductors.
+
+### ***LOW LEVEL REQUIREMENT***
+
+In the low level requirement, we must have the knowledge of different color bands of resistors and their individual value associated with it.
+
+![](https://github.com/259881/Ltts-uttam/blob/26f1f6ed83330b655e4b81504614a41d26cf8261/1_Requirements/bands.png)
+
+### ***HIGH LEVEL REQUIREMENT***
+
+In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances associated with each color band.
+
+![image](https://github.com/259881/Ltts-uttam/blob/de87a804cb2aafa6ba189b90afbb76eb6b9a3ced/1_Requirements/Resistor-color-code-chart.png)
 
