@@ -2,7 +2,7 @@
 
  on:
   push:
-      branches: [main]  
+    branches: [main]  
   pull_request:
       branches: [main]
 
@@ -49,5 +49,3 @@
    #     git add result.html
    #     git commit -m "[auto] Update Results for commit SHA $GITHUB_SHA"
    #     git push
- 
- 
