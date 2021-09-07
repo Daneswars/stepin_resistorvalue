@@ -1,12 +1,12 @@
  name: Contribution Check - Git Inspector
 
-on:
+ on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
 
-jobs:
+ jobs:
   inspect:
 
     runs-on: ubuntu-latest
