@@ -6,8 +6,7 @@ Rt=R1+R2+R3+....+Rn
 ---------------------------------------------------------------------------------------------------------------------------
 ![Parallel Resistance](https://user-images.githubusercontent.com/89680649/132282336-412e56fa-c065-4a15-ad5d-33e54ee72381.png)
 ---------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/259881/Ltts-uttam/blob/e874c7fd6f12099d6734c8c43c8fac9881ea3aaf/2_Design/ohmconversion.png)
-
+![ohmconversion](https://user-images.githubusercontent.com/89680649/132283681-6bf6e4b4-06a3-4c4b-90dc-4eb93ceb9d9b.png)
 ## ***HIGH LEVEL DESIGN***
 ![](https://github.com/259881/Ltts-uttam/blob/53323e7d26002b292f0fee57145d93901c2989aa/2.%20Design/Low%20level%20design-1.jpg)
 -------------------------------------------------------------------------------------------------------------------------------
