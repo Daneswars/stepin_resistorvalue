@@ -267,7 +267,7 @@ void UnityPrintNumberUnsigned(const UNITY_UINT number)
 /*-----------------------------------------------*/
 void UnityPrintNumberHex(const UNITY_UINT number, const char nibbles_to_print)
 {
-    int nibbles;
+    int nibble;
     char nibbles = nibbles_to_print;
 
     if ((unsigned)nibbles > UNITY_MAX_NIBBLES)
