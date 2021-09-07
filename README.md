@@ -1,6 +1,7 @@
 # stepin_resistorvalue
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/00be9b1607ea49329ab31849e6b19ca7)](https://www.codacy.com/gh/Daneswars/stepin_resistorvalue/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Daneswars/stepin_resistorvalue&amp;utm_campaign=Badge_Grade)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 [![code quailty](https://www.code-inspector.com/project/27545/score/svg)
 
   
