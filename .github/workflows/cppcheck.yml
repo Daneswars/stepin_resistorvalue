@@ -1,12 +1,12 @@
  name: Code Quality - Static Code - Cppcheck
 
-on:
+ on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
 
-jobs:
+ jobs:
   cppcheck:
 
     runs-on: ubuntu-latest
