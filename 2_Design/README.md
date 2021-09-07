@@ -12,4 +12,4 @@ Rt=R1+R2+R3+....+Rn
 -------------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/259881/Ltts-uttam/blob/87a90f778c21d15094644f39918698827c779b89/2.%20Design/LOW_LEVEL_DESIGN.jpg)
 -------------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/259881/Ltts-uttam/blob/b2c337e8249c5752126ab4ef9d17057bac1906cd/2.%20Design/HIGH_LEVEL_DESIGN.svg)
+![high level design](https://user-images.githubusercontent.com/89680649/132285518-a8de07f2-4c47-42bb-9cc7-4c798adc7a29.jpeg)
