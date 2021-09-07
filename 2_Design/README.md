@@ -1,5 +1,5 @@
 ## ***LOW LEVEL DESIGN*** 
-![](https://github.com/259881/Ltts-uttam/blob/21087e29cbfc10c05b686c5a40d24a2dc2afbce3/2_Design/Series%20Resistance.webp)
+![Series_Resistor_circuit](https://user-images.githubusercontent.com/89680649/132283140-eee00ef6-4566-4dc1-9276-ab5a3eb7857c.png)
 ---------------------------------------------------------------------------------------------------------------------------
 ![Parallel Resistance](https://user-images.githubusercontent.com/89680649/132282336-412e56fa-c065-4a15-ad5d-33e54ee72381.png)
 ---------------------------------------------------------------------------------------------------------------------------
