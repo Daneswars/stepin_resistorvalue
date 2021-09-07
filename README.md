@@ -1,3 +1,5 @@
 # stepin_resistorvalue
 
-https://www.code-inspector.com/project/27545/score/svg
+ Build | Cppcheck | Unity | Git Inspector | Valgrind | Code Quality |
+------|----------|-------|--------------|-------|---------|
+ 
