@@ -51,8 +51,7 @@ If you know voltage (E) and current (I) and want to know resistance (R), X-out t
 GEORGE SIMON OHM (INVENTOR)
 
 Georg Simon Ohm (16 March 1789 – 6 July 1854) was a German physicist and mathematician. As a school teacher, Ohm began his research with the new electrochemical cell, invented by Italian scientist Alessandro Volta. Using equipment of his own creation, Ohm found that there is a direct proportionality between the potential difference (voltage) applied across a conductor and the resultant electric current. This relationship is known as Ohm's law.
-![image](https://github.com/259881/Ltts-uttam/blob/f1be74d701435df26eaeccc889ef36d1aa2f5081/1_Requirements/Georg%20Ohm.jpg)
-
+ ![Georg Ohm](https://user-images.githubusercontent.com/89680649/132281593-3b1d5d3a-da3a-4d74-8697-a400b2c9a794.jpg)
 1.L.A. Geddes
 Hillenbrand Biomedical Engineering Center, Purdue University, West Lafayette, IN
 
