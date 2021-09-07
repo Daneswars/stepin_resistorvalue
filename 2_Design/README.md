@@ -1,7 +1,7 @@
 ## ***LOW LEVEL DESIGN*** 
 ![](https://github.com/259881/Ltts-uttam/blob/21087e29cbfc10c05b686c5a40d24a2dc2afbce3/2_Design/Series%20Resistance.webp)
 ---------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/259881/Ltts-uttam/blob/7210d9b27070cb4eb60094fcf83709a5ab0f18a7/2_Design/Parallel%20Resistance.png)
+![Parallel Resistance](https://user-images.githubusercontent.com/89680649/132282336-412e56fa-c065-4a15-ad5d-33e54ee72381.png)
 ---------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/259881/Ltts-uttam/blob/e874c7fd6f12099d6734c8c43c8fac9881ea3aaf/2_Design/ohmconversion.png)
 
