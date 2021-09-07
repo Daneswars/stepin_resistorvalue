@@ -10,6 +10,6 @@ Rt=R1+R2+R3+....+Rn
 ## ***HIGH LEVEL DESIGN***
 ![Low level design-1](https://user-images.githubusercontent.com/89680649/132283946-2857ceae-c9c9-4d92-9a81-7e470f3d2de2.jpg)
 -------------------------------------------------------------------------------------------------------------------------------
-![](https://github.com/259881/Ltts-uttam/blob/87a90f778c21d15094644f39918698827c779b89/2.%20Design/LOW_LEVEL_DESIGN.jpg)
+![LOW_LEVEL_DESIGN](https://user-images.githubusercontent.com/89680649/132285583-41898024-a0ac-4d87-a77d-100319184c34.jpg)
 -------------------------------------------------------------------------------------------------------------------------------
 ![high level design](https://user-images.githubusercontent.com/89680649/132285518-a8de07f2-4c47-42bb-9cc7-4c798adc7a29.jpeg)
