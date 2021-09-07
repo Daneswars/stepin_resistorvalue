@@ -80,5 +80,5 @@ In the low level requirement, we must have the knowledge of different color band
 
 In the high level requirement, we must have the knowledge of concept value of mutpliers and tolerances associated with each color band.
 
-![image](https://github.com/259881/Ltts-uttam/blob/de87a804cb2aafa6ba189b90afbb76eb6b9a3ced/1_Requirements/Resistor-color-code-chart.png)
+![Resistor-color-code-chart](https://user-images.githubusercontent.com/89680649/132282025-1a5c2385-13dd-4819-989d-cf9be5f4f8d3.png)
 
