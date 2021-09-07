@@ -1,5 +1,7 @@
-## ***LOW LEVEL DESIGN*** 
+## ***LOW LEVEL DESIGN***
+#series resistance
 ![Series_Resistor_circuit](https://user-images.githubusercontent.com/89680649/132283140-eee00ef6-4566-4dc1-9276-ab5a3eb7857c.png)
+Rt=R1+R2+R3+....+Rn
 ---------------------------------------------------------------------------------------------------------------------------
 ![Parallel Resistance](https://user-images.githubusercontent.com/89680649/132282336-412e56fa-c065-4a15-ad5d-33e54ee72381.png)
 ---------------------------------------------------------------------------------------------------------------------------
