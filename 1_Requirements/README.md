@@ -74,7 +74,7 @@ In 1827 Georg Simon Ohm discovered some laws relating to the strength of a curre
 
 In the low level requirement, we must have the knowledge of different color bands of resistors and their individual value associated with it.
 
-![](https://github.com/259881/Ltts-uttam/blob/26f1f6ed83330b655e4b81504614a41d26cf8261/1_Requirements/bands.png)
+![bands](https://user-images.githubusercontent.com/89680649/132281898-39fcfcde-3279-4e04-975c-5dae94b4dc66.png)
 
 ### ***HIGH LEVEL REQUIREMENT***
 
