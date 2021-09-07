@@ -7,7 +7,7 @@
     branches: [main]
 
  jobs:
-  inspect:
+  inspect:  
 
     runs-on: ubuntu-latest
 
