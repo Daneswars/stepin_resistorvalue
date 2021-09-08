@@ -1,4 +1,5 @@
 # stepin_resistorvalue
+## Check my CODE INSPECTOR STATS!
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/00be9b1607ea49329ab31849e6b19ca7)](https://www.codacy.com/gh/Daneswars/stepin_resistorvalue/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Daneswars/stepin_resistorvalue&amp;utm_campaign=Badge_Grade)
 --------------------------------------------------------------------------------------------------------------------------------------------------
@@ -16,4 +17,20 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
+## Contributors List and Summary
+
+PS Id. |  Name                   | No.  |  Features                          |No Test Cases|Test Case Pass
+-------|------------------------ |------|------------------------------------  |-------------|--------------
+`99006233` | Danesh R            |1.    |Calculate Total series Resistance     | 4          | 4    
+`99006233` | Danesh R             |2.    |Calculate Total Parallel Resistance  | 3         | 3   
+`99006233` | Danesh R            |3.    |Calculate Resistance based on voltage and current(Ohm's law)| 3          | 3    
+`99006233` | Danesh R             |4.    |Calculate Resistance based on color code | 3         | 3     
+`99006233` | Danesh R             |5.    |Unit conversion(Kohm-ohm,ohm-Mohm......) | 4          | 4    
+   
+## Challenges Faced and How Was It Overcome
+
+1.  Differentiating the Resistor bands based on its value (ohms)
+2.  Tolerance Factor for each band
+3.  Number of bands based on Resistance value
+4.  Proper placing of radix point(decimal point) while ohmic conversion
 
